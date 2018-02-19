@@ -18,9 +18,9 @@ $ pip install -r requirements.txt
 ## Run game
 
 def main():
-startGame()
-while True:
-
+    
+    startGame()
+     while True:
         check_bubs()
 
 
