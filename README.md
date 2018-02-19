@@ -11,9 +11,6 @@ This is my sushibot and all the problems along the way
 
 ## Setup for 1600 x 900 users
 
-```sh
-$ pip install -r requirements.txt
-```
 
 * Open the game (https://www.miniclip.com/games/sushi-go-round/en/) and fullscreen your screen. The corner must be to the right hand. You may need to adjust coordinates. 
 * You can check if your mouse lines up with the game coordinates by running quickgrab.py
