@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 * use quickgrab.py to take a picture of your full screen and then go on paint.net to get the coordinates of the game. Make sure your only capturing the game.
 * place the new coordinates in line 28, 29 (x_pad, y_pad). More info lines 1-12
 
-![orders](ss-orders.png)
+![cords](coords.PNG)
 
 # Features
 * starts the game/skips menu: startGame()
