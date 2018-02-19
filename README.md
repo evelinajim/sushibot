@@ -46,5 +46,5 @@ def main():
      while True:
         check_bubs()
 ## Have fun
-![results](results.PNG)
+![results](betterresults.PNG)
 
