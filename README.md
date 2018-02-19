@@ -22,8 +22,9 @@ $ pip install -r requirements.txt
 ## Setup for other users
 * Open the game (https://www.miniclip.com/games/sushi-go-round/en/) and fullscreen your screen.
 * use quickgrab.py to take a picture of your full screen and then go on paint.net to get the coordinates of the game. Make sure your only capturing the game.
+* place the new coordinates in line 28, 29 (x_pad, y_pad). More info lines 1-12
 
-![table](https://cdn.tutsplus.com/active/uploads/legacy/tuts/425_pythonBot/Images/sushi_zoom_set_xy.png)
+![orders](ss-orders.png)
 
 # Features
 * starts the game/skips menu: startGame()
