@@ -8,9 +8,8 @@ This is my sushibot and all the problems along the way
 * Pycharm 3.6 32-bit
 * Libraries needed: `The Python Imaging Library (Pillow)`, `Numpy`, and `pypiwin32`
 * Paint program like paint.net
-* 1920 x 1080 screen users
 
-## Setup for 1920 x 1080 users
+## Setup for 1600 x 900 users
 
 ```sh
 $ pip install -r requirements.txt
@@ -32,6 +31,12 @@ $ pip install -r requirements.txt
 * makes sushi
 * wins the first round
 * clears tables
+
+# Details
+* Screen Resolution: 1600 x 900 
+* Processor: Intel Core i5 @ 2.90 Ghz
+* System type: 64-bit operating system. x64-based processor
+* Windows 10 Pro
 
 ## Run game
 
